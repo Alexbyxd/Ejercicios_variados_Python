@@ -13,7 +13,7 @@ def sum_array(x):
 
 
 def sum_array2(x):
-    """Funcion que suma un array"""
+    """Funcion que suma un array (segunda forma)"""
     return sum(x)
 
 
